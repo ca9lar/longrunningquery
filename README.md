@@ -8,6 +8,6 @@ To run this script, you can connect to the MySQL server using the mysql command-
 
 ```
 mysql -u username -p password
-source script.sql
+source longrunningquery.sql
 ```
 This script is just a basic example, and you may want to customize it to fit your specific needs and gather more detailed information as needed. For example, you can add additional queries to gather more information about the long-running queries or the server status variables.
